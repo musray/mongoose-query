@@ -1,0 +1,22 @@
+{
+  "name": "mongoose-query",
+  "description": "use mongoose to make query",
+  "main": "index.js",
+  "authors": [
+    "Chu Rui"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "mongoose",
+    "query"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
